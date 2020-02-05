@@ -1,4 +1,4 @@
 # Leaflet-challenge
 
 
-![Leaflet Geomap](static/images/Leaflet-hw)
+![Leaflet Geomap](static/images/Leaflet-hw.PNG)
